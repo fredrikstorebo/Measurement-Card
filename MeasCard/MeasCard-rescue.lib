@@ -1,0 +1,306 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1717017-SamacSys_Parts2
+#
+DEF 1717017-SamacSys_Parts2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1717017-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "1717017" 650 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1717017&library=gben&pcck=P&tab=1&selectedCategory=ALL" 650 0 50 H I L CNN
+F4 "Phoenix Contact, 3 Way PCB Terminal Block" 650 -100 50 H I L CNN "Description"
+F5 "13.8" 650 -200 50 H I L CNN "Height"
+F6 "Phoenix Contact" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1717017" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "651-1717017" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1717017/?qs=F5EMLAvA7ICZj%2FuGqj9o7A%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -500 200 -500 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 800 0 200 L 50 50 0 0 P
+X 7 7 800 -100 200 L 50 50 0 0 P
+X 8 8 800 -200 200 L 50 50 0 0 P
+X 9 9 800 -300 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 1725656-SamacSys_Parts2
+#
+DEF 1725656-SamacSys_Parts2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1725656-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "1725656" 650 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&library=gben&tab=1" 650 0 50 H I L CNN
+F4 "2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm" 650 -100 50 H I L CNN "Description"
+F5 "8" 650 -200 50 H I L CNN "Height"
+F6 "Phoenix Contact" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1725656" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "651-1725656" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "1725656" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/1725656/phoenix-contact" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 0 -100 200 R 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# 44428-0601-SamacSys_Parts2
+#
+DEF 44428-0601-SamacSys_Parts2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "44428-0601-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "444280601" 650 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/276/0444280601_PCB_HEADERS-169149.pdf" 650 0 50 H I L CNN
+F4 "Headers & Wire Housings R.A. RECPT 6P tin w/snap-in pegs" 650 -100 50 H I L CNN "Description"
+F5 "11.9" 650 -200 50 H I L CNN "Height"
+F6 "Molex" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "44428-0601" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "538-44428-0601" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Molex/44428-0601/?qs=PyLLyR1ySS1boyFo%2FXH81A%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 -200 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+X 4 4 800 -200 200 L 50 50 0 0 P
+X 5 5 800 -100 200 L 50 50 0 0 P
+X 6 6 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 70246-0802-SamacSys_Parts2
+#
+DEF 70246-0802-SamacSys_Parts2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "70246-0802-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "SHDR8W99P254_2X4_1778X889X947P" 650 100 50 H I L CNN
+F3 "https://www.molex.com/pdm_docs/sd/702460802_sd.pdf" 650 0 50 H I L CNN
+F4 "Headers & Wire Housings 2.54mm CGrid Hdr Shr rd /Slt .76AuLF 8Ckt" 650 -100 50 H I L CNN "Description"
+F5 "9.47" 650 -200 50 H I L CNN "Height"
+F6 "Molex" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "70246-0802" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "538-70246-0802" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Molex/70246-0802/?qs=fJMuCzod2ILuG0HYJjh0SQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 6 6 800 -200 200 L 50 50 0 0 P
+X 7 7 0 -300 200 R 50 50 0 0 P
+X 8 8 800 -300 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 760390015-SamacSys_Parts2
+#
+DEF 760390015-SamacSys_Parts2 T 0 30 Y Y 1 F N
+F0 "T" 650 300 50 H V L CNN
+F1 "760390015-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "760390015" 650 100 50 H I L CNN
+F3 "https://katalog.we-online.com/ctm/datasheet/760390015.pdf" 650 0 50 H I L CNN
+F4 "Power Transformers MID-SN6501 TI Driver Toroid .475mH 3.3VDC" 650 -100 50 H I L CNN "Description"
+F5 "Wurth Elektronik / Midcom" 650 -300 50 H I L CNN "Manufacturer_Name"
+F6 "760390015" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F7 "710-760390015" 650 -500 50 H I L CNN "Mouser Part Number"
+F8 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik-Midcom/760390015?qs=wElim4iM2pjOQCmk%252B8YbFA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 800 -200 200 L 50 50 0 0 P
+X 5 5 800 -100 200 L 50 50 0 0 P
+X 6 6 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# DFLZ6V2-7-SamacSys_Parts2
+#
+DEF DFLZ6V2-7-SamacSys_Parts2 Z 0 30 Y Y 1 F N
+F0 "Z" 400 350 50 H V L CNN
+F1 "DFLZ6V2-7-SamacSys_Parts2" 400 250 50 H V L CNN
+F2 "DFLZ6V87" 400 150 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/ds30464.pdf" 400 50 50 H I L CNN
+F4 "Diodes Inc DFLZ6V2-7 Zener Diode, 6.2V 5% 1 W SMT 2-Pin PowerDI 123" 400 -50 50 H I L CNN "Description"
+F5 "1" 400 -150 50 H I L CNN "Height"
+F6 "Diodes Inc." 400 -250 50 H I L CNN "Manufacturer_Name"
+F7 "DFLZ6V2-7" 400 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-DFLZ6V2-7" 400 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DFLZ6V2-7/?qs=mQbszxtPdlMwrqI91DAGTw%3D%3D" 400 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "DFLZ6V2-7" 400 -650 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/dflz6v2-7/diodes-incorporated" 400 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 -100 200 -80 N
+P 2 0 1 6 200 80 200 -80 N
+P 2 0 1 6 200 80 240 100 N
+P 2 0 1 6 500 0 400 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# LG_L29K-G2J1-24-Z-SamacSys_Parts2
+#
+DEF LG_L29K-G2J1-24-Z-SamacSys_Parts2 LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "LG_L29K-G2J1-24-Z-SamacSys_Parts2" 500 250 50 H V L BNN
+F2 "LEDM178X67N" 500 150 50 H I L BNN
+F3 "https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf" 500 50 50 H I L BNN
+F4 "Standard LEDs - SMD Green, 570nm 12mcd, 2mA" 500 -50 50 H I L BNN "Description"
+F5 "0.67" 500 -150 50 H I L BNN "Height"
+F6 "OSRAM" 500 -250 50 H I L BNN "Manufacturer_Name"
+F7 "LG L29K-G2J1-24-Z" 500 -350 50 H I L BNN "Manufacturer_Part_Number"
+F8 "720-LGL29KG2J124Z" 500 -450 50 H I L BNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/LG-L29K-G2J1-24-Z/?qs=nTDll3UaDK6NQ6lyL9BooQ%3D%3D" 500 -550 50 H I L BNN "Mouser Price/Stock"
+F10 "LG L29K-G2J1-24-Z" 500 -650 50 H I L BNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lgl29k-g2j1-24-z/osram-opto-semiconductors" 500 -750 50 H I L BNN "Arrow Price/Stock"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# MMZ1608B102CTA00-SamacSys_Parts2
+#
+DEF MMZ1608B102CTA00-SamacSys_Parts2 FB 0 30 Y Y 1 F N
+F0 "FB" 650 300 50 H V L CNN
+F1 "MMZ1608B102CTA00-SamacSys_Parts2" 650 200 50 H V L CNN
+F2 "BEADC1608X95N" 650 100 50 H I L CNN
+F3 "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_signal_mmz1608_en.pdf" 650 0 50 H I L CNN
+F4 "Ferrite Beads 1K OHM 25%" 650 -100 50 H I L CNN "Description"
+F5 "0.95" 650 -200 50 H I L CNN "Height"
+F6 "TDK" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MMZ1608B102CTA00" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "810-MMZ1608B102CTA00" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK/MMZ1608B102CTA00?qs=XCwcpc%2FLnas8CYC6iNc7Bw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MMZ1608B102CTA00" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mmz1608b102cta00/tdk" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# NCV321SN3T1G-SamacSys_Parts2
+#
+DEF NCV321SN3T1G-SamacSys_Parts2 IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "NCV321SN3T1G-SamacSys_Parts2" 1050 200 50 H V L CNN
+F2 "SOT95P275X110-5N" 1050 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/NCV321SN3T1G.pdf" 1050 0 50 H I L CNN
+F4 "Operational Amplifiers - Op Amps LV R2R OPAMP" 1050 -100 50 H I L CNN "Description"
+F5 "1.1" 1050 -200 50 H I L CNN "Height"
+F6 "ON Semiconductor" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NCV321SN3T1G" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-NCV321SN3T1G" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NCV321SN3T1G/?qs=%252B6g0mu59x7JNn9hpkm18cw%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+X +IN 1 0 0 200 R 50 50 0 0 P
+X V- 2 0 -100 200 R 50 50 0 0 P
+X -IN 3 0 -200 200 R 50 50 0 0 P
+X OUTPUT 4 1200 0 200 L 50 50 0 0 P
+X V+ 5 1200 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# SN6501DBVT-SamacSys_Parts2
+#
+DEF SN6501DBVT-SamacSys_Parts2 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "SN6501DBVT-SamacSys_Parts2" 950 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/sn6501" 950 0 50 H I L CNN
+F4 "Low-noise, 350 mA, 410-kHz transformer driver for isolated power supplies" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SN6501DBVT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-SN6501DBVT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN6501DBVT/?qs=X2y4EmDJZOW%252Bp7Is%2FLCLhQ%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SN6501DBVT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sn6501dbvt/texas-instruments" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+X D1 1 0 0 200 R 50 50 0 0 P
+X VCC 2 0 -100 200 R 50 50 0 0 P
+X D2 3 0 -200 200 R 50 50 0 0 P
+X GND_1 4 1100 0 200 L 50 50 0 0 P
+X GND_2 5 1100 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TLV70450DBVR-SamacSys_Parts2
+#
+DEF TLV70450DBVR-SamacSys_Parts2 U 0 30 Y Y 1 F N
+F0 "U" 950 300 50 H V L CNN
+F1 "TLV70450DBVR-SamacSys_Parts2" 950 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tlv704" 950 0 50 H I L CNN
+F4 "24V Input Voltage, 150mA, Ultra-Low-Iq Low-Dropout (LDO) Regulators" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TLV70450DBVR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TLV70450DBVR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV70450DBVR/?qs=O1HRStiETCjnnzW1gs5MfA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TLV70450DBVR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tlv70450dbvr/texas-instruments" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+X GND 1 0 0 200 R 50 50 0 0 W
+X IN 2 0 -100 200 R 50 50 0 0 W
+X OUT 3 0 -200 200 R 50 50 0 0 O
+X NC_1 4 1100 0 200 L 50 50 0 0 P
+X NC_2 5 1100 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TPS82130SILT-SamacSys_Parts2
+#
+DEF TPS82130SILT-SamacSys_Parts2 PS 0 30 Y Y 1 F N
+F0 "PS" 1150 300 50 H V L CNN
+F1 "TPS82130SILT-SamacSys_Parts2" 1150 200 50 H V L CNN
+F2 "TPS82130SILT" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps82130" 1150 0 50 H I L CNN
+F4 "3-A 17V Step-down Converter Module with Integrated Inductor" 1150 -100 50 H I L CNN "Description"
+F5 "1" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS82130SILT" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS82130SILT" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS82130SILT/?qs=diC8vqfyxkr0HeHAfBUGmQ%3D%3D" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TPS82130SILT" 1150 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tps82130silt/texas-instruments" 1150 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+X EN 1 0 0 200 R 50 50 0 0 P
+X VIN 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X VOUT_1 4 0 -300 200 R 50 50 0 0 P
+X VOUT_2 5 0 -400 200 R 50 50 0 0 P
+X FB 6 1300 0 200 L 50 50 0 0 P
+X PG 7 1300 -100 200 L 50 50 0 0 P
+X SS/TR 8 1300 -200 200 L 50 50 0 0 P
+X PAD 9 1300 -300 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

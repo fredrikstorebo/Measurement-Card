@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\fredr\Desktop\MasterOppgave\PCB_FELLES\master_kicad\Measurment\MeasurmentCard\MeasCardonlypositive\MeasCard.sch</source>
+    <date>01.03.2021 18:42:10</date>
+    <tool>Eeschema (5.1.8)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MEASURMENT CARD</title>
+        <company>UiB</company>
+        <rev>1</rev>
+        <date>01.03.21</date>
+        <source>MeasCard.sch</source>
+        <comment number="1" value="FREDRIK STOREBØ"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/PowerSupply/" tstamps="/60266780/">
+      <title_block>
+        <title>POWER SUPPLY</title>
+        <company>UiB</company>
+        <rev>1</rev>
+        <date>01.03.21</date>
+        <source>PowerSupply.sch</source>
+        <comment number="1" value="FREDRIK STOREBØ"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>239e3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW1206-294K-E3</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW1206294KFKEA/?qs=sGAEpiMZZMtlubZbdhIBIFSm0Talg2z8YyWSTJgimdU%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601A9C62</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/crcwce3-1762584.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW12061K00FKEAC</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW12061K00FKEAC/?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJWbotjIK%252BT38M%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601AC3D1</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>12</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/dcrcwife3-1761849.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW120612R0JNAIF</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW120612R0JNEAIF/?qs=sGAEpiMZZMtlubZbdhIBIE5SSkTEu4RqrRKacJLXFoo%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601AD6AF</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>12</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/dcrcwife3-1761849.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW120612R0JNAIF</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW120612R0JNEAIF/?qs=sGAEpiMZZMtlubZbdhIBIE5SSkTEu4RqrRKacJLXFoo%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601ADF1D</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>330e-12</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063A331JAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063A331JAT2A/?qs=kij0Oh9KTucgMKPmpaZ7Hw%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601B405C</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C105K4Z4A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C105K4Z4A/?qs=sGAEpiMZZMsh%252B1woXyUXj1pSoZ1QEU9Ispj6bvNVboo%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C41A2</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C104J4Z2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C104J4Z2A/?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C496C</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ACS758xCB-050B-PFF</value>
+      <footprint>Sensor_Current:Allegro_CB_PFF</footprint>
+      <datasheet>http://www.allegromicro.com/~/media/Files/Datasheets/ACS758-Datasheet.ashx?la=en</datasheet>
+      <libsource lib="Sensor_Current" part="ACS758xCB-050B-PFF" description="±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, CB-5 PFF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C716D</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C104J4Z2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C104J4Z2A/?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C9C25</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C105K4Z4A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C105K4Z4A/?qs=sGAEpiMZZMsh%252B1woXyUXj1pSoZ1QEU9Ispj6bvNVboo%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601CA846</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C104J4Z2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C104J4Z2A/?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C201D</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065C105K4Z4A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065C105K4Z4A/?qs=sGAEpiMZZMsh%252B1woXyUXj1pSoZ1QEU9Ispj6bvNVboo%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601C0DF1</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>AMC1100DUBR</value>
+      <footprint>SelfMade:SOP254P1040X485-8N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/amc1100</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AMC1100DUBR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/amc1100dubr/texas-instruments</field>
+        <field name="Description">+/-250 mV-Input, Low-Cost Basic Isolated Amplifier for Current Sensing</field>
+        <field name="Height">4.85</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">AMC1100DUBR</field>
+        <field name="Mouser Part Number">595-AMC1100DUBR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC1100DUBR?qs=2UFnnMkojnWfS8LYivgqyg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="AMC1100DUBR" description="+/-250 mV-Input, Low-Cost Basic Isolated Amplifier for Current Sensing"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>601AE61B</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>1725656</value>
+      <footprint>SelfMade:1725656</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&amp;library=gben&amp;tab=1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1725656</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1725656/phoenix-contact</field>
+        <field name="Description">2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1725656</field>
+        <field name="Mouser Part Number">651-1725656</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="1725656-SamacSys_Parts2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60383059</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>1725656</value>
+      <footprint>SelfMade:1725656</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&amp;library=gben&amp;tab=1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1725656</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1725656/phoenix-contact</field>
+        <field name="Description">2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1725656</field>
+        <field name="Mouser Part Number">651-1725656</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="1725656-SamacSys_Parts2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60387320</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>1725656</value>
+      <footprint>SelfMade:1725656</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&amp;library=gben&amp;tab=1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1725656</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1725656/phoenix-contact</field>
+        <field name="Description">2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1725656</field>
+        <field name="Mouser Part Number">651-1725656</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="1725656-SamacSys_Parts2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6038A115</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>1725656</value>
+      <footprint>SelfMade:1725656</footprint>
+      <datasheet>https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&amp;library=gben&amp;tab=1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">1725656</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1725656/phoenix-contact</field>
+        <field name="Description">2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1725656</field>
+        <field name="Mouser Part Number">651-1725656</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="1725656-SamacSys_Parts2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6038AD3E</tstamp>
+    </comp>
+    <comp ref="Cin1">
+      <value>10e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/cx5r-776519.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063D106K</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063D106KAT2A/?qs=sGAEpiMZZMsh%252B1woXyUXj4gx9UeZhj6d77bFJTLdVDc%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC0F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>PESD15VL2BT,215</value>
+      <footprint>SamacSys_Parts_2:SOT95P230X110-3N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1242372</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PESD15VL2BT,215</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pesd15vl2bt215/nexperia</field>
+        <field name="Description">Nexperia PESD15VL2BT,215, Dual Bi-Directional ESD Protection Diode, 200W, 3-Pin SOT-23</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PESD15VL2BT,215</field>
+        <field name="Mouser Part Number">771-PESD15VL2BT-T/R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PESD15VL2BT215?qs=LOCUfHb8d9vyDy2ag0hbbA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PESD15VL2BT,215" description="Nexperia PESD15VL2BT,215, Dual Bi-Directional ESD Protection Diode, 200W, 3-Pin SOT-23"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC29</tstamp>
+    </comp>
+    <comp ref="Css1">
+      <value>430e-12</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12061A431JAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12061A431JAT2A/?qs=qZldoFu4T49PimX7G9pSCA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC42</tstamp>
+    </comp>
+    <comp ref="Rpg1">
+      <value>100e3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/crcwce3-1762584.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW1206100KFKEAC</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW1206100KFKEAC/?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJWgAsLyswGVeo%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC4D</tstamp>
+    </comp>
+    <comp ref="Rfbb1">
+      <value>100e3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/crcwce3-1762584.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW1206100KFKEAC</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW1206100KFKEAC/?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJWgAsLyswGVeo%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC53</tstamp>
+    </comp>
+    <comp ref="Rfbt1">
+      <value>523e3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW1206-523K-E3</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW1206523KFKEA/?qs=sGAEpiMZZMtlubZbdhIBIKi5rZsMV9yk6wxiiVac%2FA0%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC59</tstamp>
+    </comp>
+    <comp ref="Cout1">
+      <value>22e-6</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/cx5r-776519.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063D226KAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063D226KAT2A/?qs=sGAEpiMZZMsh%252B1woXyUXj9iSS0gSTgae5X7XU6%2Frf%2FY%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6026CC69</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>SN6501DBVT</value>
+      <footprint>SamacSys_Parts_2:SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn6501</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN6501DBVT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn6501dbvt/texas-instruments</field>
+        <field name="Description">Low-noise, 350 mA, 410-kHz transformer driver for isolated power supplies</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN6501DBVT</field>
+        <field name="Mouser Part Number">595-SN6501DBVT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN6501DBVT?qs=X2y4EmDJZOW%252Bp7Is%2FLCLhQ%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="SN6501DBVT-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>60271538</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>10e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063A100KAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063A100KAT2A?qs=950R68cwx9cPIcLO9UQzzg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>602732C4</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6027453C</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>760390015</value>
+      <footprint>SamacSys_Parts_2:760390015</footprint>
+      <datasheet>https://katalog.we-online.com/ctm/datasheet/760390015.pdf</datasheet>
+      <fields>
+        <field name="Description">Power Transformers MID-SN6501 TI Driver Toroid .475mH 3.3VDC</field>
+        <field name="Manufacturer_Name">Wurth Elektronik / Midcom</field>
+        <field name="Manufacturer_Part_Number">760390015</field>
+        <field name="Mouser Part Number">710-760390015</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik-Midcom/760390015?qs=wElim4iM2pjOQCmk%252B8YbFA%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="760390015-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>60275D1B</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>MBR0520LT</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/MBR0520LT1-D.PDF</datasheet>
+      <fields>
+        <field name="Mouser Part Number">863-MBR0520LT1G</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/ON-Semiconductor/MBR0520LT1G/?qs=3JMERSakebqBWTiPUQp0nw%3D%3D</field>
+      </fields>
+      <libsource lib="Diode" part="MBR0520LT" description="20V 0.5A Schottky Power Rectifier Diode, SOD-123"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>60279BFA</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>10e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063A100KAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063A100KAT2A?qs=950R68cwx9cPIcLO9UQzzg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6027D23E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>TLV70450DBVR</value>
+      <footprint>SamacSys_Parts_2:SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tlv704</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TLV70450DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tlv70450dbvr/texas-instruments</field>
+        <field name="Description">24V Input Voltage, 150mA, Ultra-Low-Iq Low-Dropout (LDO) Regulators</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TLV70450DBVR</field>
+        <field name="Mouser Part Number">595-TLV70450DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV70450DBVR?qs=O1HRStiETCjnnzW1gs5MfA%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="TLV70450DBVR-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603A516A</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063A100KAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063A100KAT2A?qs=950R68cwx9cPIcLO9UQzzg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603A6207</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603A6675</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>10e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12063A100KAT2A</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12063A100KAT2A?qs=950R68cwx9cPIcLO9UQzzg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603A6A9F</tstamp>
+    </comp>
+    <comp ref="FB1">
+      <value>MMZ1608B102CTA00</value>
+      <footprint>SelfMade:BEADC1608X95N</footprint>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_signal_mmz1608_en.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MMZ1608B102CTA00</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mmz1608b102cta00/tdk</field>
+        <field name="Description">Ferrite Beads 1K OHM 25%</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MMZ1608B102CTA00</field>
+        <field name="Mouser Part Number">810-MMZ1608B102CTA00</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/MMZ1608B102CTA00?qs=XCwcpc%2FLnas8CYC6iNc7Bw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="MMZ1608B102CTA00-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603E1FB2</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603F4B62</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603F4B68</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>LG_L29K-G2J1-24-Z</value>
+      <footprint>SamacSys_Parts_2:LEDM178X67N</footprint>
+      <datasheet>https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LG L29K-G2J1-24-Z</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lgl29k-g2j1-24-z/osram-opto-semiconductors</field>
+        <field name="Description">Standard LEDs - SMD Green, 570nm 12mcd, 2mA</field>
+        <field name="Height">0.67</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">LG L29K-G2J1-24-Z</field>
+        <field name="Mouser Part Number">720-LGL29KG2J124Z</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/LG-L29K-G2J1-24-Z/?qs=nTDll3UaDK6NQ6lyL9BooQ%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="LG_L29K-G2J1-24-Z-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603F4B7C</tstamp>
+    </comp>
+    <comp ref="Z1">
+      <value>DFLZ6V2-7</value>
+      <footprint>SamacSys_Parts_2:DFLZ6V87</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds30464.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DFLZ6V2-7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dflz6v2-7/diodes-incorporated</field>
+        <field name="Description">Diodes Inc DFLZ6V2-7 Zener Diode, 6.2V 5% 1 W SMT 2-Pin PowerDI 123</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DFLZ6V2-7</field>
+        <field name="Mouser Part Number">621-DFLZ6V2-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DFLZ6V2-7/?qs=mQbszxtPdlMwrqI91DAGTw%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="DFLZ6V2-7-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>606BD07F</tstamp>
+    </comp>
+    <comp ref="PS1">
+      <value>TPS82130SILT</value>
+      <footprint>SamacSys_Parts_2:TPS82130SILT</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tps82130</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TPS82130SILT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tps82130silt/texas-instruments</field>
+        <field name="Description">3-A 17V Step-down Converter Module with Integrated Inductor</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS82130SILT</field>
+        <field name="Mouser Part Number">595-TPS82130SILT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS82130SILT/?qs=diC8vqfyxkr0HeHAfBUGmQ%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="TPS82130SILT-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603AC6A0</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>3.16</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW12063R16FKEA</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW12063R16FKEA/?qs=loJnjVZBdda3UBuG0TUqAA%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>603F4B6E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>44428-0601</value>
+      <footprint>SamacSys_Parts_2:444280601</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/276/0444280601_PCB_HEADERS-169149.pdf</datasheet>
+      <fields>
+        <field name="Description">Headers &amp; Wire Housings R.A. RECPT 6P tin w/snap-in pegs</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">44428-0601</field>
+        <field name="Mouser Part Number">538-44428-0601</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/44428-0601/?qs=PyLLyR1ySS1boyFo%2FXH81A%3D%3D</field>
+      </fields>
+      <libsource lib="MeasCard-rescue" part="44428-0601-SamacSys_Parts2" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>602F771A</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6041A3CC</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>MIC5225-3.3YM5-TR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.farnell.com/datasheets/1580469.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MIC5225-3.3YM5-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic5225-3.3ym5-tr/microchip-technology</field>
+        <field name="Description">MICROCHIP - MIC5225-3.3YM5-TR - LDO, REG, 16VIN, 0.15A, 3.3V, 2%, 5SOT23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC5225-3.3YM5-TR</field>
+        <field name="Mouser Part Number">998-MIC5225-3.3YM5TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5225-33YM5-TR?qs=U6T8BxXiZAXmYJ5yRdN5%2Fg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MIC5225-3.3YM5-TR" description="MICROCHIP - MIC5225-3.3YM5-TR - LDO, REG, 16VIN, 0.15A, 3.3V, 2%, 5SOT23"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6041B11B</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>BD49K33G-TL</value>
+      <footprint>SOT95P280X125-3N</footprint>
+      <datasheet>https://www.rohm.com/datasheet/BD49K33G/bd48xxg-e</datasheet>
+      <fields>
+        <field name="Description">Supervisory Circuits Volt Det CMOS 3.3V SSOP3</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">BD49K33G-TL</field>
+        <field name="Mouser Part Number">755-BD49K33G-TL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD49K33G-TL?qs=WHeKGGBt0W8tXEy9iLpBWg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="BD49K33G-TL" description="Supervisory Circuits Volt Det CMOS 3.3V SSOP3"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6041C3DE</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>60471A99</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>60472036</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>604973B8</tstamp>
+    </comp>
+    <comp ref="Rfbb2">
+      <value>100e3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/427/crcwce3-1762584.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">71-CRCW1206100KFKEAC</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/Vishay-Dale/CRCW1206100KFKEAC/?qs=sGAEpiMZZMtlubZbdhIBIIZe04wfiaJWgAsLyswGVeo%3D</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>604A5AE9</tstamp>
+    </comp>
+    <comp ref="LED2">
+      <value>APTD3216LCGCK</value>
+      <footprint>LEDC3216X200N</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/APTD3216LCGCK.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">APTD3216LCGCK</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/aptd3216lcgck/kingbright</field>
+        <field name="Description">Standard LEDs - SMD 1206 Dome Lens LED Green- 570nm</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Kingbright</field>
+        <field name="Manufacturer_Part_Number">APTD3216LCGCK</field>
+        <field name="Mouser Part Number">604-APTD3216LCGCK</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Kingbright/APTD3216LCGCK?qs=AQlKX63v8RtGnV9yf7Jmfg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="APTD3216LCGCK" description="Standard LEDs - SMD 1206 Dome Lens LED Green- 570nm"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>604AC2FE</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>0.1e-9</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://no.mouser.com/datasheet/2/40/C0GNP0_Dielectric-951274.pdf</datasheet>
+      <fields>
+        <field name="Mouser Part Number">581-12065A101J</field>
+        <field name="Mouser Price/Stock">https://no.mouser.com/ProductDetail/AVX/12065A101JAT2A/?qs=tlMrHejcBYt%2F1xIHTgNUGg%3D%3D</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/60266780/"/>
+      <tstamp>6027DAF9</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAT48ZFILM">
+      <aliases>
+        <alias>MBR0520LT</alias>
+        <alias>MBR0520</alias>
+        <alias>MBR0530</alias>
+        <alias>MBR0540</alias>
+        <alias>MBR0550</alias>
+        <alias>MBR0560</alias>
+        <alias>MBR0570</alias>
+        <alias>MBR0580</alias>
+        <alias>BAT42W-V</alias>
+        <alias>BAT43W-V</alias>
+      </aliases>
+      <description>40V 0.35A Small Signal Schottky Diode, SOD-123</description>
+      <docs>www.st.com/resource/en/datasheet/bat48.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT48ZFILM</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="1725656-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1725656-SamacSys_Parts2</field>
+        <field name="Footprint">1725656</field>
+        <field name="Datasheet">https://www.phoenixcontact.com/online/portal/gb?uri=pxc-oc-itemdetail:pid=1725656&amp;library=gben&amp;tab=1</field>
+        <field name="Description">2 way PCB vertical mount terminal,2.54mm 2 way PCB vertical mount terminal,2.54mm</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">Phoenix Contact</field>
+        <field name="Manufacturer_Part_Number">1725656</field>
+        <field name="Mouser Part Number">651-1725656</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1725656/?qs=Ul7CXFMnlWWQeccayYbRmw%3D%3D</field>
+        <field name="Arrow Part Number">1725656</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/1725656/phoenix-contact</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="44428-0601-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">44428-0601-SamacSys_Parts2</field>
+        <field name="Footprint">444280601</field>
+        <field name="Datasheet">https://www.mouser.com/datasheet/2/276/0444280601_PCB_HEADERS-169149.pdf</field>
+        <field name="Description">Headers &amp; Wire Housings R.A. RECPT 6P tin w/snap-in pegs</field>
+        <field name="Height">11.9</field>
+        <field name="Manufacturer_Name">Molex</field>
+        <field name="Manufacturer_Part_Number">44428-0601</field>
+        <field name="Mouser Part Number">538-44428-0601</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Molex/44428-0601/?qs=PyLLyR1ySS1boyFo%2FXH81A%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="760390015-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">760390015-SamacSys_Parts2</field>
+        <field name="Footprint">760390015</field>
+        <field name="Datasheet">https://katalog.we-online.com/ctm/datasheet/760390015.pdf</field>
+        <field name="Description">Power Transformers MID-SN6501 TI Driver Toroid .475mH 3.3VDC</field>
+        <field name="Manufacturer_Name">Wurth Elektronik / Midcom</field>
+        <field name="Manufacturer_Part_Number">760390015</field>
+        <field name="Mouser Part Number">710-760390015</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik-Midcom/760390015?qs=wElim4iM2pjOQCmk%252B8YbFA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="DFLZ6V2-7-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">Z</field>
+        <field name="Value">DFLZ6V2-7-SamacSys_Parts2</field>
+        <field name="Footprint">DFLZ6V87</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds30464.pdf</field>
+        <field name="Description">Diodes Inc DFLZ6V2-7 Zener Diode, 6.2V 5% 1 W SMT 2-Pin PowerDI 123</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DFLZ6V2-7</field>
+        <field name="Mouser Part Number">621-DFLZ6V2-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DFLZ6V2-7/?qs=mQbszxtPdlMwrqI91DAGTw%3D%3D</field>
+        <field name="Arrow Part Number">DFLZ6V2-7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dflz6v2-7/diodes-incorporated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="LG_L29K-G2J1-24-Z-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LG_L29K-G2J1-24-Z-SamacSys_Parts2</field>
+        <field name="Footprint">LEDM178X67N</field>
+        <field name="Datasheet">https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf</field>
+        <field name="Description">Standard LEDs - SMD Green, 570nm 12mcd, 2mA</field>
+        <field name="Height">0.67</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">LG L29K-G2J1-24-Z</field>
+        <field name="Mouser Part Number">720-LGL29KG2J124Z</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/LG-L29K-G2J1-24-Z/?qs=nTDll3UaDK6NQ6lyL9BooQ%3D%3D</field>
+        <field name="Arrow Part Number">LG L29K-G2J1-24-Z</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lgl29k-g2j1-24-z/osram-opto-semiconductors</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="MMZ1608B102CTA00-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">MMZ1608B102CTA00-SamacSys_Parts2</field>
+        <field name="Footprint">BEADC1608X95N</field>
+        <field name="Datasheet">https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_signal_mmz1608_en.pdf</field>
+        <field name="Description">Ferrite Beads 1K OHM 25%</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MMZ1608B102CTA00</field>
+        <field name="Mouser Part Number">810-MMZ1608B102CTA00</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/MMZ1608B102CTA00?qs=XCwcpc%2FLnas8CYC6iNc7Bw%3D%3D</field>
+        <field name="Arrow Part Number">MMZ1608B102CTA00</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mmz1608b102cta00/tdk</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="SN6501DBVT-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SN6501DBVT-SamacSys_Parts2</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn6501</field>
+        <field name="Description">Low-noise, 350 mA, 410-kHz transformer driver for isolated power supplies</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN6501DBVT</field>
+        <field name="Mouser Part Number">595-SN6501DBVT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN6501DBVT/?qs=X2y4EmDJZOW%252Bp7Is%2FLCLhQ%3D%3D</field>
+        <field name="Arrow Part Number">SN6501DBVT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn6501dbvt/texas-instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="D2" type="passive"/>
+        <pin num="4" name="GND_1" type="passive"/>
+        <pin num="5" name="GND_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="TLV70450DBVR-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLV70450DBVR-SamacSys_Parts2</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tlv704</field>
+        <field name="Description">24V Input Voltage, 150mA, Ultra-Low-Iq Low-Dropout (LDO) Regulators</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TLV70450DBVR</field>
+        <field name="Mouser Part Number">595-TLV70450DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV70450DBVR/?qs=O1HRStiETCjnnzW1gs5MfA%3D%3D</field>
+        <field name="Arrow Part Number">TLV70450DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tlv70450dbvr/texas-instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IN" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="NC_1" type="passive"/>
+        <pin num="5" name="NC_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MeasCard-rescue" part="TPS82130SILT-SamacSys_Parts2">
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">TPS82130SILT-SamacSys_Parts2</field>
+        <field name="Footprint">TPS82130SILT</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tps82130</field>
+        <field name="Description">3-A 17V Step-down Converter Module with Integrated Inductor</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS82130SILT</field>
+        <field name="Mouser Part Number">595-TPS82130SILT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS82130SILT/?qs=diC8vqfyxkr0HeHAfBUGmQ%3D%3D</field>
+        <field name="Arrow Part Number">TPS82130SILT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tps82130silt/texas-instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="passive"/>
+        <pin num="2" name="VIN" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="VOUT_1" type="passive"/>
+        <pin num="5" name="VOUT_2" type="passive"/>
+        <pin num="6" name="FB" type="passive"/>
+        <pin num="7" name="PG" type="passive"/>
+        <pin num="8" name="SS/TR" type="passive"/>
+        <pin num="9" name="PAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="AMC1100DUBR">
+      <description>+/-250 mV-Input, Low-Cost Basic Isolated Amplifier for Current Sensing</description>
+      <docs>http://www.ti.com/lit/gpn/amc1100</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AMC1100DUBR</field>
+        <field name="Footprint">SOP254P1040X485-8N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/amc1100</field>
+        <field name="Description">+/-250 mV-Input, Low-Cost Basic Isolated Amplifier for Current Sensing</field>
+        <field name="Height">4.85</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">AMC1100DUBR</field>
+        <field name="Arrow Part Number">AMC1100DUBR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/amc1100dubr/texas-instruments</field>
+        <field name="Mouser Part Number">595-AMC1100DUBR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC1100DUBR?qs=2UFnnMkojnWfS8LYivgqyg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD1" type="passive"/>
+        <pin num="2" name="VINP" type="passive"/>
+        <pin num="3" name="VINN" type="passive"/>
+        <pin num="4" name="GND1" type="passive"/>
+        <pin num="5" name="GND2" type="passive"/>
+        <pin num="6" name="VOUTN" type="passive"/>
+        <pin num="7" name="VOUTP" type="passive"/>
+        <pin num="8" name="VDD2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="APTD3216LCGCK">
+      <description>Standard LEDs - SMD 1206 Dome Lens LED Green- 570nm</description>
+      <docs>http://www.kingbrightusa.com/images/catalog/SPEC/APTD3216LCGCK.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">APTD3216LCGCK</field>
+        <field name="Footprint">LEDC3216X200N</field>
+        <field name="Description">Standard LEDs - SMD 1206 Dome Lens LED Green- 570nm</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Kingbright</field>
+        <field name="Manufacturer_Part_Number">APTD3216LCGCK</field>
+        <field name="Arrow Part Number">APTD3216LCGCK</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/aptd3216lcgck/kingbright</field>
+        <field name="Mouser Part Number">604-APTD3216LCGCK</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Kingbright/APTD3216LCGCK?qs=AQlKX63v8RtGnV9yf7Jmfg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="BD49K33G-TL">
+      <description>Supervisory Circuits Volt Det CMOS 3.3V SSOP3</description>
+      <docs>https://www.rohm.com/datasheet/BD49K33G/bd48xxg-e</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">BD49K33G-TL</field>
+        <field name="Footprint">SOT95P280X125-3N</field>
+        <field name="Datasheet">https://www.rohm.com/datasheet/BD49K33G/bd48xxg-e</field>
+        <field name="Description">Supervisory Circuits Volt Det CMOS 3.3V SSOP3</field>
+        <field name="Height">1.25</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">BD49K33G-TL</field>
+        <field name="Mouser Part Number">755-BD49K33G-TL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD49K33G-TL?qs=WHeKGGBt0W8tXEy9iLpBWg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="VOUT" type="passive"/>
+        <pin num="3" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="MIC5225-3.3YM5-TR">
+      <description>MICROCHIP - MIC5225-3.3YM5-TR - LDO, REG, 16VIN, 0.15A, 3.3V, 2%, 5SOT23</description>
+      <docs>http://www.farnell.com/datasheets/1580469.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MIC5225-3.3YM5-TR</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/1580469.pdf</field>
+        <field name="Description">MICROCHIP - MIC5225-3.3YM5-TR - LDO, REG, 16VIN, 0.15A, 3.3V, 2%, 5SOT23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC5225-3.3YM5-TR</field>
+        <field name="Arrow Part Number">MIC5225-3.3YM5-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic5225-3.3ym5-tr/microchip-technology</field>
+        <field name="Mouser Part Number">998-MIC5225-3.3YM5TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5225-33YM5-TR?qs=U6T8BxXiZAXmYJ5yRdN5%2Fg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="PESD15VL2BT,215">
+      <description>Nexperia PESD15VL2BT,215, Dual Bi-Directional ESD Protection Diode, 200W, 3-Pin SOT-23</description>
+      <docs>http://uk.rs-online.com/web/p/products/1242372</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PESD15VL2BT,215</field>
+        <field name="Footprint">SOT95P230X110-3N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/1242372</field>
+        <field name="Description">Nexperia PESD15VL2BT,215, Dual Bi-Directional ESD Protection Diode, 200W, 3-Pin SOT-23</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">PESD15VL2BT,215</field>
+        <field name="Arrow Part Number">PESD15VL2BT,215</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pesd15vl2bt215/nexperia</field>
+        <field name="Mouser Part Number">771-PESD15VL2BT-T/R</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/PESD15VL2BT215?qs=LOCUfHb8d9vyDy2ag0hbbA%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Current" part="ACS756xCB-050B-PFF">
+      <aliases>
+        <alias>ACS756xCB-100B-PFF</alias>
+        <alias>ACS758xCB-050B-PFF</alias>
+        <alias>ACS758xCB-050U-PFF</alias>
+        <alias>ACS758xCB-100B-PFF</alias>
+        <alias>ACS758xCB-100U-PFF</alias>
+        <alias>ACS758xCB-150B-PFF</alias>
+        <alias>ACS758xCB-150U-PFF</alias>
+        <alias>ACS758xCB-200B-PFF</alias>
+        <alias>ACS758xCB-200U-PFF</alias>
+        <alias>ACS759xCB-050B-PFF</alias>
+        <alias>ACS759xCB-100B-PFF</alias>
+        <alias>ACS759xCB-150B-PFF</alias>
+        <alias>ACS759xCB-200B-PFF</alias>
+        <alias>ACS770xCB-050B-PFF</alias>
+        <alias>ACS770xCB-050U-PFF</alias>
+        <alias>ACS770xCB-100B-PFF</alias>
+        <alias>ACS770xCB-100U-PFF</alias>
+        <alias>ACS770xCB-150B-PFF</alias>
+        <alias>ACS770xCB-150U-PFF</alias>
+        <alias>ACS770xCB-200B-PFF</alias>
+        <alias>ACS770xCB-200U-PFF</alias>
+      </aliases>
+      <description>±50A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 40mV/A, CB-5 PFF</description>
+      <docs>http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en</docs>
+      <footprints>
+        <fp>Allegro*CB*PFF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ACS756xCB-050B-PFF</field>
+        <field name="Footprint">Sensor_Current:Allegro_CB_PFF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VIOUT" type="output"/>
+        <pin num="4" name="IP+" type="passive"/>
+        <pin num="5" name="IP-" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="MeasCard-rescue">
+      <uri>C:\Users\fredr\Desktop\MasterOppgave\PCB_FELLES\master_kicad\Measurment\MeasurmentCard\MeasCardonlypositive/MeasCard-rescue.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/fredr/Desktop/pcb eksempel/mmc-power-module-master/pcb/mmc-kicad-lib/mmc-kicad-lib-master/SamacSys/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Sensor_Current">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Sensor_Current.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDD">
+      <node ref="C12" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="Z1" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="T1" pin="4"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="C5" pin="2"/>
+      <node ref="LED1" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C14" pin="2"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="D1" pin="2"/>
+      <node ref="PS1" pin="9"/>
+      <node ref="Css1" pin="2"/>
+      <node ref="Rfbb1" pin="1"/>
+      <node ref="Cout1" pin="2"/>
+      <node ref="PS1" pin="3"/>
+      <node ref="C16" pin="2"/>
+      <node ref="IC3" pin="1"/>
+      <node ref="LED2" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="IC2" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="J3" pin="2"/>
+      <node ref="Cin1" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="J6" pin="5"/>
+      <node ref="IC4" pin="5"/>
+      <node ref="IC4" pin="4"/>
+      <node ref="J6" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="3" name="3.3V">
+      <node ref="IC2" pin="5"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="IC3" pin="3"/>
+      <node ref="U1" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="4" name="Net-(J2-Pad1)">
+      <node ref="U1" pin="5"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="5" name="Net-(J2-Pad2)">
+      <node ref="U1" pin="4"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="6" name="Net-(IC1-Pad7)">
+      <node ref="J4" pin="1"/>
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="7" name="Net-(IC1-Pad6)">
+      <node ref="J4" pin="2"/>
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="8" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="9" name="+5V_ISO">
+      <node ref="C15" pin="1"/>
+      <node ref="FB1" pin="2"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="Z1" pin="1"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="11" name="Net-(J1-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="13" name="Net-(R1-Pad1)">
+      <node ref="R3" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="3"/>
+      <node ref="J3" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="15" name="Net-(LED1-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="LED1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(PS1-Pad6)">
+      <node ref="PS1" pin="6"/>
+      <node ref="Rfbt1" pin="1"/>
+      <node ref="Rfbb1" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D1-Pad3)">
+      <node ref="J6" pin="6"/>
+      <node ref="J6" pin="3"/>
+      <node ref="D1" pin="3"/>
+    </net>
+    <net code="18" name="Net-(PS1-Pad7)">
+      <node ref="Rpg1" pin="1"/>
+      <node ref="PS1" pin="7"/>
+    </net>
+    <net code="19" name="Net-(D3-Pad2)">
+      <node ref="T1" pin="6"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="20" name="Net-(Css1-Pad1)">
+      <node ref="PS1" pin="8"/>
+      <node ref="Css1" pin="1"/>
+    </net>
+    <net code="21" name="Net-(LED2-Pad2)">
+      <node ref="Rfbb2" pin="1"/>
+      <node ref="LED2" pin="2"/>
+    </net>
+    <net code="22" name="Net-(C16-Pad1)">
+      <node ref="IC3" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="Rfbb2" pin="2"/>
+    </net>
+    <net code="23" name="+6V_ISO">
+      <node ref="C22" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C24" pin="1"/>
+    </net>
+    <net code="24" name="Net-(IC2-Pad4)">
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="25" name="Net-(C8-Pad1)">
+      <node ref="IC2" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="PS1" pin="2"/>
+      <node ref="Cin1" pin="1"/>
+      <node ref="PS1" pin="1"/>
+      <node ref="J6" pin="4"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="26" name="5V">
+      <node ref="Rpg1" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="IC4" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="T1" pin="2"/>
+      <node ref="Rfbt1" pin="2"/>
+      <node ref="Cout1" pin="1"/>
+      <node ref="PS1" pin="5"/>
+      <node ref="PS1" pin="4"/>
+    </net>
+    <net code="27" name="Net-(C12-Pad1)">
+      <node ref="U2" pin="3"/>
+      <node ref="C12" pin="1"/>
+      <node ref="FB1" pin="1"/>
+    </net>
+    <net code="28" name="Net-(IC4-Pad1)">
+      <node ref="T1" pin="3"/>
+      <node ref="IC4" pin="1"/>
+    </net>
+    <net code="29" name="Net-(IC4-Pad3)">
+      <node ref="IC4" pin="3"/>
+      <node ref="T1" pin="1"/>
+    </net>
+    <net code="30" name="Net-(T1-Pad5)">
+      <node ref="T1" pin="5"/>
+    </net>
+    <net code="31" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="32" name="Net-(U2-Pad5)">
+      <node ref="U2" pin="5"/>
+    </net>
+  </nets>
+</export>
